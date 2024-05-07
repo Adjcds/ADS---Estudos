@@ -3,8 +3,6 @@
 Bem-vindo ao repositório dos meus estudos em Back end (QA)CARREIRA SELECIONADA QUALITY ASSURANCE ANALYST ! 
 Este repositório contém uma variedade de recursos, projetos.
 
- <img scr= "img/me.png">
-
 ## Objetivo
 O objetivo principal deste repositório é fornecer um guia abrangente do meu aprendizado e aprimorar as habilidades necessárias para se tornar uma profissional.
 
