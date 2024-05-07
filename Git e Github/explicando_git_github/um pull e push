@@ -1,0 +1,103 @@
+Sitemas de controle de versão: controlam as versões de um arquivo ao longo do tempo.
+
+- Registra o histórico de atualizações de um arquivo;
+
+- Gerencia quais foram as alterações, a data, autor, etc;
+
+- Organização, controle e segurança
+
+Tipos de sistemas de controle de versão:
+Dentre os sistemas de controle de versão (vcs), temos:
+
+VCS centralizado (CVCS)
+ex: CVS, Subversion.
+
+VCS Distribuído (DVCS)
+ex: Git, Mercurial.
+
+VCS Centralizado (CVCS):
+
+arquivo < Servido central > arquivo
+          Banco de versões:
+          versão 3
+          versão 2
+          versão 1
+
+VCS Distribuído (DVCS)
+
+arquivo        <>            servidor             <> arquivo
+Banco de versões:          Banco de versões:       Banco de versões:
+  versão 3                   versão 3                 versão 3
+  versão 2                   versão 2                 versão 2
+  versão 1                   versão 1                 versão 1
+                        
+Explicando:
+Clona o repositorio completo, o que inclui o histórico de versões.
+
+- Cada clone é como um backup;
+- Possibilita um fluxo de trabalho flexível;
+- Possibilidade de trabalhar sem conexão à rede.
+
+O que é git?
+
+Sistema de controle de versão distribuído.
+
+- Gratuito e open Source (código aberto);
+- Ramificações (branching) e fusões (merging) eficientes;
+- Leve e rápido.
+
+( https://git-scm.com/ )
+
+Breve histórico do git
+2002 > O projeto do núcleo (kernel) do linux, que é open source, começa a utilizar o bitKeeper, um dvcs proprietário;
+2005 > Após conflitos com a comunidade, o bitkeeper rescinde a licença gratuita. O que leva a linux torvalds, o criador do linux, e sua equipe a desenvolverem sua própria ferramenta, o git.
+
+Fluxo Básico no git
+
+banco de versões     >   Servidor >      banco de versões
+   versão 1               versão 1         versão 1
+
+        git commit > grava alterações no repositório
+
+ (ATUALIZOU)
+ versão 2
+ versão 1 (em caso de mandarem algo para o repositorio) use :
+
+        git pull > "puxa" as alterações do respositório remoto para o local (busca e mescla).
+
+        depois
+
+        git push > "empurra" as alterações do repositório local para o remoto.
+  
+  VERSÃO ATUALIZADA
+
+banco de versões     >   Servidor >      banco de versões
+   versão 2               versão 2         versão 2
+   versão 1               versão 1         versão 1
+   
+
+O que é github?
+
+Plataforma de hospedagem de código para controle de versão com git, e colaboração.
+
+Comunidade Ativa;
+Utilizado mundialmente;
+Mascote "Octocat".
+
+Breve Histórico do GitHub:
+
+2008 > Desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon.
+
+2018 > Vítima de um dos maiores ataques de DDoS (ataque distrubuído de negação de serviço); Comprado pela Microsoft Corporation US $ 7,5 Bilhões
+
+banco de versões     >   Servidor >      banco de versões
+   versão 2               versão 2         versão 2
+   versão 1               versão 1         versão 1
+   
+                      git
+
+(instale o git na sua maquina https://git-scm.com/download/win )
+
+Configurando o git (use gif config na sua maquina para descobror e ver como ele funciona)
+
+para saber mais do materiais dessa aula em: https://github.com/elidianaandrade/dio-curso-git-github?tab=readme-ov-file
