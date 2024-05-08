@@ -3,16 +3,14 @@
 Bem-vindo ao repositório dos meus estudos em Back end (QA)CARREIRA SELECIONADA QUALITY ASSURANCE ANALYST ! 
 Este repositório contém uma variedade de recursos, projetos.
 
- <img scr= "img/me.png">
-
 ## Objetivo
 O objetivo principal deste repositório é fornecer um guia abrangente do meu aprendizado e aprimorar as habilidades necessárias para se tornar uma profissional.
 
 ## Estrutura do Repositório
-- **Explicações:** Este diretório contém minhas anotações sobre os princípios de QA e Back-end, metodologias de teste, ferramentas de automação, estratégias de teste e muito mais. As explicações são organizadas de forma a facilitar o aprendizado progressivo e o acesso rápido aos conceitos específicos.
-- **Projetos:** Aqui você encontrará uma variedade de projetos práticos relacionados a testes de software. Estes projetos são desenvolvidos para aplicar os conceitos aprendidos e demonstrar habilidades práticas na área de QA.
-- **Recursos:** Nesta seção, listo uma série de recursos úteis, incluindo livros, artigos, cursos online, ferramentas de automação de teste e documentações relevantes. Estes recursos são selecionados para fornecer uma base sólida e atualizada em QA.
-
+- **Explicações:** Este diretório contém minhas anotações sobre os princípios metodologias, ferramentas de automação, estratégias de teste e muito mais. As explicações são organizadas de forma a facilitar o aprendizado progressivo e o acesso rápido aos conceitos específicos.
+- **Projetos:** Aqui você encontrará uma variedade de projetos práticos relacionados a testes de software.
+- **Recursos:** Nesta seção, listo uma série de recursos úteis, incluindo livros, artigos, cursos online, ferramentas de automação de teste e documentações relevantes.
+- 
 ## Tópicos Abordados
 - Python
 - Git e Github
@@ -40,4 +38,4 @@ Vamos aprender e melhorar juntos a qualidade do software!
 
 **Autor:** [AdrielleJcds](https://github.com/Adjcds)  
 **E-mail:** adrielle.dev@gmail.com  
-**Última Atualização:** [24/04/2024]
+**Última Atualização:** [07/05/2024]
