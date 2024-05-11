@@ -10,7 +10,7 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 - **Explicações:** Este diretório contém minhas anotações sobre os princípios metodologias, ferramentas de automação, estratégias de teste e muito mais. As explicações são organizadas de forma a facilitar o aprendizado progressivo e o acesso rápido aos conceitos específicos.
 - **Projetos:** Aqui você encontrará uma variedade de projetos práticos relacionados a testes de software.
 - **Recursos:** Nesta seção, listo uma série de recursos úteis, incluindo livros, artigos, cursos online, ferramentas de automação de teste e documentações relevantes.
-- 
+- **Desafios:** Desafios para testar o aprendizado.
 ## Tópicos Abordados
 - Python
 - Git e Github
