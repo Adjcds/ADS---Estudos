@@ -1,7 +1,7 @@
-# Estudos em Back end voltado a  (QA)
+# Estudos em Back end voltado 
 
 Bem-vindo ao repositório dos meus estudos em Back end (QA)CARREIRA SELECIONADA QUALITY ASSURANCE ANALYST ! 
-Este repositório contém uma variedade de recursos, projetos.
+Este repositório contém uma variedade de recursos, projetos e desafios.
 
 ## Objetivo
 O objetivo principal deste repositório é fornecer um guia abrangente do meu aprendizado e aprimorar as habilidades necessárias para se tornar uma profissional.
@@ -11,10 +11,11 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 - **Projetos:** Aqui você encontrará uma variedade de projetos práticos relacionados a testes de software.
 - **Recursos:** Nesta seção, listo uma série de recursos úteis, incluindo livros, artigos, cursos online, ferramentas de automação de teste e documentações relevantes.
 - **Desafios:** Desafios para testar o aprendizado.
+
 ## Tópicos Abordados
-- Python
 - Git e Github
--
+- Python
+- Java
 - 
 - 
 - 
@@ -30,6 +31,7 @@ Gostaria de expressar minha sincera gratidão às plataformas de ensino online D
 
 [Dio](https://www.dio.me/)  
 [Adam Tech](https://ada.tech/)
+[Santander](https://www.santanderopenacademy.com/pt_br/index.html)
 
 ## Contato
 Se você tiver alguma dúvida, sugestão ou apenas quiser compartilhar experiências sobre QA, sinta-se à vontade para entrar em contato comigo por e-mail ou através das issues deste repositório.
