@@ -1,8 +1,4 @@
-Aqui está a atualização do seu README no formato correto:
-
----
-
-# :bank: Sistema Bancário Aprimorado em Python
+# :bank:💰💸 Sistema Bancário Aprimorado em Python
 
 ## Visão Geral
 
@@ -31,11 +27,6 @@ Este projeto aprimora o sistema bancário original em Python, atendendo às nece
 ## Observações
 
 * O sistema ainda está em desenvolvimento e novas funcionalidades podem ser implementadas no futuro.
-* Para mais informações sobre o desafio original, consulte o link na seção "Referência".
-
-## Tecnologias Utilizadas
-
-* Python
 
 ## Próximos Passos
 
@@ -55,3 +46,6 @@ Juntos, podemos construir um sistema bancário completo e robusto em Python!
 
 Além disso, o arquivo `explicacao.py` contém uma explicação detalhada do código linha por linha, ajudando a entender como cada parte do sistema funciona. Certifique-se de consultá-lo para um entendimento aprofundado da implementação.
 
+## Autor:
+
+Este projeto faz parte do Desafio da Digital Innovation One.
