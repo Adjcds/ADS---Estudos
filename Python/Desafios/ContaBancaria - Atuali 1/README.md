@@ -1,8 +1,4 @@
-Aqui está a atualização do seu README no formato correto:
-
----
-
-# :bank: Sistema Bancário Aprimorado em Python
+# :bank:💰💸 Sistema Bancário Aprimorado em Python
 
 ## Visão Geral
 
@@ -31,7 +27,6 @@ Este projeto aprimora o sistema bancário original em Python, atendendo às nece
 ## Observações
 
 * O sistema ainda está em desenvolvimento e novas funcionalidades podem ser implementadas no futuro.
-* Para mais informações sobre o desafio original, consulte o link na seção "Referência".
 
 ## Tecnologias Utilizadas
 
