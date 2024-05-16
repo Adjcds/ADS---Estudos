@@ -46,3 +46,6 @@ Juntos, podemos construir um sistema bancário completo e robusto em Python!
 
 Além disso, o arquivo `explicacao.py` contém uma explicação detalhada do código linha por linha, ajudando a entender como cada parte do sistema funciona. Certifique-se de consultá-lo para um entendimento aprofundado da implementação.
 
+## Autor:
+
+Este projeto faz parte do Desafio da Digital Innovation One.
