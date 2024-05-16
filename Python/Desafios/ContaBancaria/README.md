@@ -4,13 +4,15 @@
 
 Este é um projeto de desenvolvimento de um sistema bancário em Python para um banco de grande porte que busca modernizar suas operações. A primeira versão deste sistema oferecerá funcionalidades básicas, incluindo depósito, saque e visualização de extrato.
 
+## :battery: Stack utilizada
+[![My Stack](https://skillicons.dev/icons?i=vscode,py,git)](https://skillicons.dev)
+
 ## Funcionalidades Principais
 
 ### Depósito:
 
 - Os usuários podem depositar valores positivos em suas contas bancárias.
-
-Para começar a utilizar o sistema, é necessário realizar um depósito inicial.
+- Para começar a utilizar o sistema, é necessário realizar um depósito inicial.
 - A versão inicial (v1) do sistema trabalha com apenas um usuário, eliminando a necessidade de especificar número de agência e conta bancária.
 - Todos os depósitos são armazenados em uma variável e exibidos na operação de extrato.
 
@@ -27,10 +29,15 @@ Para começar a utilizar o sistema, é necessário realizar um depósito inicial
 - Se não houver movimentações registradas, uma mensagem indicando "Não foram realizadas movimentações" é exibida.
 - Os valores são formatados em reais (R$) seguindo o padrão R$ xxx.xx.
 
+## Arquivos no Repositório
+
+- `contabancaria.py`: Contém o código do sistema bancário sem comentários, pronto para execução.
+- `explicacao.py`: Contém o mesmo código do sistema bancário, mas com comentários explicando cada linha para facilitar o entendimento.
+
 ## Como Usar:
 
 1. Clone este repositório em sua máquina local.
-2. Execute o arquivo principal do sistema, `contabancaria.py`.
+2. Execute o arquivo principal do sistema, `contaBancaria.py`.
 3. Siga as instruções fornecidas pelo sistema para realizar depósitos, saques e visualizar o extrato.
 
 ## Autor:
