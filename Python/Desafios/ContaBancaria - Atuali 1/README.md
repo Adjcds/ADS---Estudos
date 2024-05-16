@@ -28,10 +28,6 @@ Este projeto aprimora o sistema bancário original em Python, atendendo às nece
 
 * O sistema ainda está em desenvolvimento e novas funcionalidades podem ser implementadas no futuro.
 
-## Tecnologias Utilizadas
-
-* Python
-
 ## Próximos Passos
 
 * Implementar autenticação de usuário para maior segurança.
