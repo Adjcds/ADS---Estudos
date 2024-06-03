@@ -1,6 +1,6 @@
 # Estudos em Back end voltado 
 
-Bem-vindo ao repositório dos meus estudos em Back end (QA)CARREIRA SELECIONADA QUALITY ASSURANCE ANALYST ! 
+Bem-vindo ao repositório dos meus estudos em Back end.
 Este repositório contém uma variedade de recursos, projetos e desafios.
 
 ## Objetivo
