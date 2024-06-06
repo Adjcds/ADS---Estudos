@@ -1,0 +1,10 @@
+[2023-10-04 19:56:53] Fun√ß√£o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('1')>],) e {}. Retornou None
+[2023-10-04 19:57:40] Fun√ß√£o 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('1')>], [<ContaCorrente: ('0001', '1', 'Guilherme')>]) e {}. Retornou None
+[2023-10-04 19:57:46] Fun√ß√£o 'depositar' executada com argumentos ([<PessoaFisica: ('1')>],) e {}. Retornou None
+[2023-10-04 20:00:03] Fun√ß√£o 'criar_conta' executada com argumentos (1, [], []) e {}. Retornou None
+[2023-10-04 20:00:14] Fun√ß√£o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('2')>],) e {}. Retornou None
+[2023-10-04 20:05:27] Fun√ß√£o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Chappie', '3')>],) e {}. Retornou None
+[2024-06-06 19:54:06] FunÁ„o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('3902', '39923')>],) e {}. Retornou None
+[2024-06-06 19:54:31] FunÁ„o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('3902', '39923')>, <PessoaFisica: ('0', '0')>],) e {}. Retornou None
+[2024-06-06 19:54:42] FunÁ„o 'depositar' executada com argumentos ([<PessoaFisica: ('3902', '39923')>, <PessoaFisica: ('0', '0')>],) e {}. Retornou None
+[2024-06-06 19:54:49] FunÁ„o 'sacar' executada com argumentos ([<PessoaFisica: ('3902', '39923')>, <PessoaFisica: ('0', '0')>],) e {}. Retornou None
