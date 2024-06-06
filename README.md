@@ -1,6 +1,6 @@
-# Estudos em Back end voltado 
+# Repositório dos estudos de 2024 - 2026:
 
-Bem-vindo ao repositório dos meus estudos em Back end.
+Bem-vindo(a) ao repositório dos meus estudos em Análise e Desenvolvimento de Sistemas e outros cursos extras que estou realizando para aprofundar meu conhecimento.
 Este repositório contém uma variedade de recursos, projetos e desafios.
 
 ## Objetivo
@@ -15,7 +15,7 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 - Git e Github
 - Python
 - Java
-- 
+- Rede e sistemas
 - 
 - 
 - 
@@ -25,12 +25,15 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 ## Contribuições
 Se você tem experiência e gostaria de contribuir com recursos adicionais, exemplos de projetos ou melhorias nas notas existentes, sinta-se à vontade para enviar um pull request! Este repositório é uma comunidade de aprendizado, e sua contribuição é valorizada.
 
-## Agradecimentos Especiais
-Gostaria de expressar minha sincera gratidão às plataformas de ensino online, que foram fundamentais na minha jornada de aprendizado em Back-end. Através de seus cursos e materiais, pude adquirir conhecimento valioso, aprimorar minhas habilidades e me preparar para os desafios da carreira. Obrigado por proporcionarem recursos de alta qualidade e acessíveis, ajudando-me a alcançar meus objetivos profissionais.
+## Agradecimentos aos cursos extras: 
+Gostaria de expressar minha sincera gratidão às plataformas de ensino online, que foram fundamentais na minha jornada ao aprendizado. Através de seus cursos e materiais, pude adquirir conhecimento valioso, aprimorar minhas habilidades e me preparar para os desafios da carreira. Obrigado por proporcionarem recursos de alta qualidade e acessíveis, ajudando-me a alcançar meus objetivos profissionais.
 
 [Dio](https://www.dio.me/)  
 [Adam Tech](https://ada.tech/)
+<br>
 [Santander](https://www.santanderopenacademy.com/pt_br/index.html)
+<br>
+[Ready Tecnologia](https://ead.ready.tec.br/lms/learning/index.php?elc=7a43cb1597744601fe6d9a20415429d0)
 
 ## Contato
 Se você tiver alguma dúvida, sugestão ou apenas quiser compartilhar experiências sobre QA, sinta-se à vontade para entrar em contato comigo por e-mail ou através das issues deste repositório.
@@ -39,4 +42,4 @@ Vamos aprender e melhorar juntos a qualidade do software!
 
 **Autor:** [AdrielleJcds](https://github.com/Adjcds)  
 **E-mail:** adrielle.dev@gmail.com  
-**Última Atualização:** [14/05/2024]
+**Última Atualização:** [06/06/2024]
