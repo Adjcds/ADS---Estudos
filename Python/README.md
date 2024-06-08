@@ -79,13 +79,10 @@ Nesta seção, você aprenderá a usar o Poetry para gerenciar dependências e a
 ### Como Usar Este Repositório
 
 - Clone este repositório em sua máquina local.
-- Navegue para as pastas correspondentes às partes 1 e 2 para acessar os materiais de aprendizagem.
+- Navegue para as pastas correspondentes a python para acessar os materiais de aprendizagem.
 - Explore os arquivos README.md em cada pasta para obter instruções detalhadas.
 
 ### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de recebimento (pull requests) para melhorar este recurso de aprendizado.
 
-### Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md para obter mais informações.
