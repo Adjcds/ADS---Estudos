@@ -16,7 +16,7 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 - Python
 - Java
 - Rede e sistemas
-- 
+- Trilha Devops
 - 
 - 
 - 
