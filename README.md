@@ -17,9 +17,9 @@ O objetivo principal deste repositório é fornecer um guia abrangente do meu ap
 - Java
 - Rede e sistemas
 - Trilha Devops
-- 
-- 
-- 
+- Explorando Banco de dados relacionais com python DB API
+- Introdução a banco de dados relacionais sql
+- Introdução a banco de dados nosql
 - 
 
 ## Contribuições
